@@ -42,3 +42,4 @@ Similar to the first script, this will start the Streamlit server, and the app s
 ## Screenshots
 ![Screenshot (1244)](https://github.com/A00476517/pythonAssignmeny2By_Vrushali_A00476517/assets/144840145/5d99a7e7-907c-4873-8873-16076f4226fd)
 
+![Screenshot (1245)](https://github.com/A00476517/pythonAssignmeny2By_Vrushali_A00476517/assets/144840145/394dceee-cf1a-4d8d-b17c-bded27b801c4)
