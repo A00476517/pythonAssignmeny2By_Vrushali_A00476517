@@ -40,3 +40,5 @@ Similar to the first script, this will start the Streamlit server, and the app s
 3) Comparative Analysis: The second script allows for a comparative view between two cryptocurrencies, helping identify trends and anomalies over time.
 
 ## Screenshots
+![Screenshot (1244)](https://github.com/A00476517/pythonAssignmeny2By_Vrushali_A00476517/assets/144840145/5d99a7e7-907c-4873-8873-16076f4226fd)
+
